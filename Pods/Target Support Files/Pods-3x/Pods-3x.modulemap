@@ -1,0 +1,6 @@
+framework module Pods_3x {
+  umbrella header "Pods-3x-umbrella.h"
+
+  export *
+  module * { export * }
+}
